@@ -1,6 +1,0 @@
-[build]
-  base = "NauticEYE_updated"
-  command = "pnpm build"
-
-[build.environment]
-  NODE_VERSION = "22"
